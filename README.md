@@ -119,16 +119,6 @@ The application will start at:
 http://localhost:8080
 ```
 
-## 📸 Screenshots
-
-(Add your website screenshots here)
-
-Example:
-
-```
-![Home Page](screenshots/home.png)
-![Projects Page](screenshots/projects.png)
-```
 
 ## 📚 Learning Outcomes
 
@@ -143,7 +133,7 @@ Example:
 **Chandra Hari**
 
 - GitHub: https://github.com/ChandraHari05
-- LinkedIn: Add your LinkedIn profile link
+
 
 ---
 
