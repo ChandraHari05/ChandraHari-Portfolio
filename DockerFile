@@ -9,4 +9,4 @@ COPY ./src/main/resources/application-port.properties /app/config/application-po
 COPY ./.env /app
 ENV SPRING_CONFIG_LOCATION=/app/config/application-port.properties
 ENV SPRING_PROFILES_ACTIVE=PORT
-ENTRYPOINT ["java","jar","app.jar"]
+ENTRYPOINT ["java","-jar","app.jar"]
