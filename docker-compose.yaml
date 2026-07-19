@@ -1,6 +1,6 @@
 version : "3.8"
 services: 
-    ChandraHari-backend:
+    chandrahari-backend:
       build:
        context: "."
        dockerfile: "DockerFile"
