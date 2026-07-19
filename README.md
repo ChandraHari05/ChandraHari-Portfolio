@@ -14,6 +14,7 @@ A full-stack personal portfolio website developed to showcase my skills, project
 📌 **Portfolio Sections**
 - Home page with introduction
 - About Me section
+- Work Experience
 - Technical Skills showcase
 - Projects display
 - Contact form
@@ -41,7 +42,7 @@ A full-stack personal portfolio website developed to showcase my skills, project
 - MySQL
 
 ### Tools
-- IntelliJ IDEA
+- Eclipise IDE
 - Maven
 - Git & GitHub
 - Postman
